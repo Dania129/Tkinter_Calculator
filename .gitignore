@@ -1,0 +1,11 @@
+# PyInstaller build files & compiled binaries
+build/
+dist/
+.idea/
+*.exe
+*.spec
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
